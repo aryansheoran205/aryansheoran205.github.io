@@ -62,24 +62,22 @@ a:visited {
     background-size: cover;
 
 }
-.post1{
-    margin-top: 150px;
-    margin-bottom: 0px;
-    margin-right: 150px;
-    margin-left: 10px;
+
+  
    
   
-}
+
+.row {
+      display: flex;
+      gap: 20px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
 
  /* flip card */
- .flip {
-    
-    margin-top: 0px;
-    margin-bottom: 800px;
-    margin-right: 0px;
-    margin-left: 1600px;
-   
-}
+
+
 .flip-card {
     background-color: transparent;
     width: 300px;
