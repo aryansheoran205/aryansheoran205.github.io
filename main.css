@@ -61,12 +61,8 @@ a:visited {
     background-attachment: fixed;
     background-size: cover;
 
+
 }
-
-  
-   
-  
-
 .row {
       display: flex;
       gap: 20px;
@@ -76,8 +72,14 @@ a:visited {
 
 
  /* flip card */
-
-
+ .flip {
+    
+    margin-top: 0px;
+    margin-bottom: 800px;
+    margin-right: 0px;
+    margin-left: 1301px;
+   
+}
 .flip-card {
     background-color: transparent;
     width: 300px;
